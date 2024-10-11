@@ -23,4 +23,4 @@ Motivador | Inglês
 
 ## ✨Desafio Nível do herói
 
-Nesse desafio eu teria de criar uma estrutura que apresentasse o nível de um personagem (o nosso herói) com base no seu número de pontos de experiência (xp). Usei da da ferramenta condicional If. Espero que gostem, até mais!
+Nesse desafio eu teria de criar uma estrutura que apresentasse o nível de um personagem (o nosso herói) com base no seu número de pontos de experiência (xp). Usei da ferramenta condicional If. Espero que gostem, até mais!
