@@ -18,8 +18,8 @@ Sou um marinheiro de primeira viagem no mar dos códigos. Formado em Ciências C
 |------|----------|
 Comunicação | Finanças
 Empatia | Controladoria
-Hadapitabilidade | Planilhas
-Motivador | Inglês
+Adaptabilidade | Planilhas
+Liderança | Inglês
 
 ## ✨Desafio Nível do herói
 
